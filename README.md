@@ -40,4 +40,7 @@
 │   ├── App.vue                    // 入口文件
 │   ├── main.js                    // 入口文件
 │   └── permission.js              // 路由守卫
-├── Readme.md                   // help
+└── Readme.md                   // help
+
+
+
